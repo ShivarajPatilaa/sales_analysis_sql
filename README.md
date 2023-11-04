@@ -55,7 +55,7 @@ The "Orders" table includes the following fields:
 - `paymenttype`: Payment type used
 - `branch_code`: Code for the branch where the sale occurred
 - `city`: City where the sale took place
-- `customer_type`: Type of customer (e.g., Wholesale, Retail)
+- `customer_type`: Type of customer (e.g., Normal, Member)
 - `gender`: Gender of the customer
 - `rating`: Customer rating
 - `date`: Date of the sale
