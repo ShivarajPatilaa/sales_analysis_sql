@@ -193,16 +193,4 @@ A new column, "Month_name," is added to the "Orders" table to store the month na
   - Total transaction amount
   - Branch codes
 
----
-
-## Contributors
-
-- Include a list of contributors or authors of the project, if applicable.
-
-## License
-
-- Specify the licensing terms for the project. If the dataset used has specific licensing terms, include them here.
-
----
-
 This README file provides an extensive overview of the SQL project, its components, and the insights derived from the analysis of the "Sales_walmart" dataset. Users can refer to the individual sections for detailed information on each aspect of the analysis.
