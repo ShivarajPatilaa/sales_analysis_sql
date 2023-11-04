@@ -30,10 +30,6 @@ This SQL project focuses on analyzing sales data from the fictional "Sales_walma
 8. [Branch Analysis](#branch-analysis)
     - [Branch Performance](#branch-performance)
     - [Branch and Payment Analysis](#branch-and-payment-analysis)
-9. [Contributors](#contributors)
-10. [License](#license)
-
----
 
 ## Database Creation
 
